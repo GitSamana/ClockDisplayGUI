@@ -1,7 +1,3 @@
-// Name: Samana Shrestha
-// Course: CS 102
-// Assignment 3 PART I
-// Date: 2nd October 2015
 /* CODE DESCRIPTION:
  * DoubleDigit is an instantiable class with 6 instance methods:
  * 
