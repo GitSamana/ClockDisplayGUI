@@ -1,7 +1,3 @@
-// Name: Samana Shrestha
-// Course: CS 102
-// Assignment 3 PART II
-// Date: 2nd October 2015
 /* CODE DESCRIPTION:
  * ClockDisplay is an instantiable class with 4 instance methods:
  * 
