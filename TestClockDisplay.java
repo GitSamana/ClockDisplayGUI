@@ -1,7 +1,3 @@
-// Name: Samana Shrestha
-// Course: CS 102
-// Assignment 3 PART III
-// Date: 2nd October 2015
 /* CODE DESCRIPTION:
  * TestClockDisplay is a procedural tester class for the ClockDisplay class.
  * It has a main method that uses the ClockDisplay class. It contains the 
